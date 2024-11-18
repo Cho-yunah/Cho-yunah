@@ -8,7 +8,11 @@
 탄탄한 코드와 원활한 협업, 두 마리 토끼를 잡고 싶은 개발자입니다. <br/>
 꾸준하게 공부하고 시도하면서 성장하겠습니다!
 </p>
-  
+
+### 📊 GitHub Stats
+![Cho-yunah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cho-yunah&show_icons=true&theme=tokyonight)
+<br/>
+
 ### 🛠️ Languages and Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
@@ -18,9 +22,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-### 📊 GitHub Stats
-![Cho-yunah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cho-yunah&show_icons=true&theme=tokyonight)
-
+<br/>
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/Cho-yunah"
