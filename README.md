@@ -34,7 +34,8 @@
 ### 📌 Pinned Projects
 🔗 [**my_app**](https://github.com/Cho-yunah/my_app): "지금껏 해왔던 프로젝트를 모아 정리한 사이트"<br/>
 🔗 [**inviteU**](https://github.com/Cho-yunah/inviteU): "간단한 커스텀 초대장 생성 서비스"<br/>
-🔗 [**tetris_game**](https://github.com/Cho-yunah/tetris_game_with_js): "js 로 만들어본 테트리스 게임"
+🔗 [**tetris_game**](https://github.com/Cho-yunah/tetris_game_with_js): "js 로 만들어본 테트리스 게임"<br/>
+🔗 [**CodingTest_javascript**](https://github.com/Cho-yunah/CodingTest_Javascript): "javascript로 프로그래머스 코딩테스트 연습"
 
 ---
 
